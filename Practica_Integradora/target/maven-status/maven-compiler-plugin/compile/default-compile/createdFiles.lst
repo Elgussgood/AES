@@ -1,6 +1,0 @@
-bean\LoginBean.class
-bean\ConsultaAgenda.class
-bean\Provider.class
-bean\Contacto.class
-bean\ConnectionProvider.class
-bean\LoginDao.class
